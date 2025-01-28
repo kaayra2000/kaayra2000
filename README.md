@@ -10,7 +10,7 @@ Ben, Kayseri doğumlu, Yıldız Teknik Üniversitesi Bilgisayar Mühendisliği m
 
 ## 🎓 Eğitim
 - **Yıldız Teknik Üniversitesi:** 
-  - Yüksek Lisans, Bilgisayar Mühendisliği (Devam Ediyor)
+  - Yüksek Lisans, Bilgisayar Mühendisliği - Mezun
   - Lisans, Bilgisayar Mühendisliği - Mezun
 - **Süleyman Demirel Üniversitesi:** Diş Hekimliği Fakültesi - Mezuniyet Yok
 
@@ -41,7 +41,7 @@ I am Muhammed Kayra Bulut, born in Kayseri, a graduate and currently a master's 
 
 ## 🎓 Education
 - **Yıldız Technical University:** 
-  - Master's Degree in Computer Engineering (Ongoing)
+  - Master's Degree in Computer Engineering - Graduate
   - Bachelor's Degree in Computer Engineering - Graduate
 - **Süleyman Demirel University:** Faculty of Dentistry - No Graduation
 
